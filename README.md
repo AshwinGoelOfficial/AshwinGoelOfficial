@@ -56,12 +56,5 @@ flowchart LR
 | **Dashboard design** | Fast, confident decision-making |
 | **Insight communication** | Clear stories for non-technical teams |
 
-## GitHub snapshot
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=AshwinGoelOfficial&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00C6FF&text_color=FFFFFF" alt="GitHub statistics" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinGoelOfficial&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F00FF&text_color=FFFFFF" alt="Top languages" />
-</p>
-
 <p align="center"><i>“Without data, you're just another person with an opinion.” — W. Edwards Deming</i></p>
 
