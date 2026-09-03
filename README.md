@@ -1,7 +1,7 @@
 # Hi, I'm **Ashwin Goel** 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C6FF&height=140&section=header&text=Data%20Analyst&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Data Analyst banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C6FF&height=140&section=header&text=Aspiring%20Data%20Analyst&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Data Analyst banner" />
 </p>
 
 <p align="center">
